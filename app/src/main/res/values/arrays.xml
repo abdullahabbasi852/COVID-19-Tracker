@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>COVID-19 TRACKER</item>
+        <item>Stay Safe, Stay Home</item>
+    </string-array>
+</resources>
