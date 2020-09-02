@@ -8,7 +8,6 @@ COVID-19 Tracker is an Android application which shows worldwide data of confirm
 * Android 4.4 - KITKAT (API 19) or above
 * Build with Android Studio 3.6.3
 
-
 # Tools
   * Android Studio
   * Novel COVID-19 API
