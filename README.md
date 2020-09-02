@@ -13,7 +13,10 @@ COVID-19 Tracker is an Android application which shows worldwide data of confirm
   * Android Studio
   * Novel COVID-19 API
 
-# Built With
+# Libraries
+* [Volley](https://github.com/google/volley)
+* [COVID-19 API](https://corona.lmao.ninja/) - Corona Virus API used
+* [EazeGraph](https://github.com/blackfizz/EazeGraph)
 * [COVID-19 API](https://corona.lmao.ninja/) - Corona Virus API used
 
 # Support
