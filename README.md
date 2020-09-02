@@ -15,9 +15,11 @@ COVID-19 Tracker is an Android application which shows worldwide data of confirm
 
 # Libraries
 * [Volley](https://github.com/google/volley)
-* [COVID-19 API](https://corona.lmao.ninja/) - Corona Virus API used
+* [Lottie-Android](https://github.com/airbnb/lottie-android)
+* [Glide](https://github.com/bumptech/glide)
+* [Fading-Text-View](https://github.com/rosenpin/fading-text-view)
 * [EazeGraph](https://github.com/blackfizz/EazeGraph)
-* [COVID-19 API](https://corona.lmao.ninja/) - Corona Virus API used
+* [SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
 
 # Support
 Please [open an issue](https://github.com/abdullahabbasi852/COVID-19Tracker/issues) for support or even more [open a pull request](https://github.com/abdullahabbasi852/COVID-19Tracker/pulls).
